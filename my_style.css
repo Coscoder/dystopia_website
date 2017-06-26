@@ -70,3 +70,13 @@ h2 {
 .introduction {
  padding: 10px 50px 0px 50px;
 }
+
+.container {
+height: 250px;
+text-align:left;
+padding: 0px 0px 0px 200px;
+}
+.container img {
+  height: 178px;
+  width: 283px;
+}
